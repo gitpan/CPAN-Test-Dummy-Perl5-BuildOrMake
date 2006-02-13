@@ -1,0 +1,6 @@
+lib/CPAN/Test/Dummy/Perl5/BuildOrMake.pm
+Build.PL
+MANIFEST
+Makefile.PL
+t/00_load.t
+META.yml
